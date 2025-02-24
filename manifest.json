@@ -1,0 +1,26 @@
+{
+    "version": "1.0.0",
+    "files": [
+        {
+            "name": "config.cfg",
+            "path": "config.cfg",
+            "size": 84,
+            "hash": "3f98be6f9a6a6a34044dbb6fbf6c64e5ef771270ee08ed8b8a10058c28a4c9ed",
+            "required": true
+        },
+        {
+            "name": "config.exe",
+            "path": "config.exe",
+            "size": 3785216,
+            "hash": "ef16a02af258192b08a6f3f8808e9d5e39fa2ad1bddb2c1d9fadeb84ea6a1d41",
+            "required": true
+        },
+        {
+            "name": "metin2client.exe",
+            "path": "metin2client.exe",
+            "size": 6269952,
+            "hash": "7c4a969b9137dd148d8c94a65b20de7958897f770970903564be7c1b3ce0d0ca",
+            "required": true
+        }
+    ]
+}
